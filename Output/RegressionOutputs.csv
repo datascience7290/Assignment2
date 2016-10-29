@@ -1,0 +1,18 @@
+,names,x
+1,Account No,26908650026
+2,(Intercept),-386.30746
+3,Account,NA
+4,Month,-1.945807069
+5,Day,-0.269715646
+6,Year,NA
+7,Hour,-0.774933709
+8,Day.of.Week,4.003771027
+9,Weekday,60.89381449
+10,PeakHour,111.85797
+11,TemperatureF,0.081738536
+12,Dew_PointF,0.353436206
+13,Humidity,-0.321179124
+14,Sea_Level_PressureIn,16.17257883
+15,VisibilityMPH,-0.973612774
+16,Wind_SpeedMPH,0.822615015
+17,WindDirDegrees,-0.019606354
